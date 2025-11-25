@@ -1,0 +1,10 @@
+0.7
+2020.2
+May  7 2023
+15:24:31
+C:/Users/rahul/Downloads/ecenproj/ecenprojviv/ecenprojviv.sim/sim_1/behav/xsim/glbl.v,1683266558,verilog,,,,glbl,,,,,,,,
+C:/Users/rahul/Downloads/ecenproj/ecenprojviv/ecenprojviv.srcs/sim_1/new/afe_tb.v,1763854449,verilog,,,,afe_tb,,,,,,,,
+C:/Users/rahul/Downloads/ecenproj/ecenprojviv/ecenprojviv.srcs/sources_1/new/afe_top.v,1763854341,verilog,,C:/Users/rahul/Downloads/ecenproj/ecenprojviv/ecenprojviv.srcs/sources_1/new/schmitt_comparator.v,,afe_top,,,,,,,,
+C:/Users/rahul/Downloads/ecenproj/ecenprojviv/ecenprojviv.srcs/sources_1/new/schmitt_comparator.v,1763851844,verilog,,C:/Users/rahul/Downloads/ecenproj/ecenprojviv/ecenprojviv.srcs/sources_1/new/sr_latch.v,,schmitt_comparator,,,,,,,,
+C:/Users/rahul/Downloads/ecenproj/ecenprojviv/ecenprojviv.srcs/sources_1/new/sr_latch.v,1763851844,verilog,,C:/Users/rahul/Downloads/ecenproj/ecenprojviv/ecenprojviv.srcs/sources_1/new/uart_tx.v,,sr_latch,,,,,,,,
+C:/Users/rahul/Downloads/ecenproj/ecenprojviv/ecenprojviv.srcs/sources_1/new/uart_tx.v,1763854341,verilog,,C:/Users/rahul/Downloads/ecenproj/ecenprojviv/ecenprojviv.srcs/sim_1/new/afe_tb.v,,uart_tx,,,,,,,,

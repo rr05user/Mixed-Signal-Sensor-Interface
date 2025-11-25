@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="afe_tb_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="afe_tb" />
+            <top_module name="glbl" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0.000000 us"></ZoomStartTime>
+      <ZoomEndTime time="1,000.000001 us"></ZoomEndTime>
+      <Cursor1Time time="1,000.000000 us"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="91"></NameColumnWidth>
+      <ValueColumnWidth column_width="90"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="14" />
+   <wvobject fp_name="/afe_tb/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/afe_tb/reset" type="logic">
+      <obj_property name="ElementShortName">reset</obj_property>
+      <obj_property name="ObjectShortName">reset</obj_property>
+   </wvobject>
+   <wvobject fp_name="/afe_tb/vin" type="array">
+      <obj_property name="ElementShortName">vin[11:0]</obj_property>
+      <obj_property name="ObjectShortName">vin[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/afe_tb/logic_out" type="logic">
+      <obj_property name="ElementShortName">logic_out</obj_property>
+      <obj_property name="ObjectShortName">logic_out</obj_property>
+   </wvobject>
+   <wvobject fp_name="/afe_tb/cmp_out" type="logic">
+      <obj_property name="ElementShortName">cmp_out</obj_property>
+      <obj_property name="ObjectShortName">cmp_out</obj_property>
+   </wvobject>
+   <wvobject fp_name="/afe_tb/uart_tx" type="logic">
+      <obj_property name="ElementShortName">uart_tx</obj_property>
+      <obj_property name="ObjectShortName">uart_tx</obj_property>
+   </wvobject>
+   <wvobject fp_name="/afe_tb/rise_code" type="array">
+      <obj_property name="ElementShortName">rise_code[31:0]</obj_property>
+      <obj_property name="ObjectShortName">rise_code[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/afe_tb/fall_code" type="array">
+      <obj_property name="ElementShortName">fall_code[31:0]</obj_property>
+      <obj_property name="ObjectShortName">fall_code[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/afe_tb/seen_rise" type="logic">
+      <obj_property name="ElementShortName">seen_rise</obj_property>
+      <obj_property name="ObjectShortName">seen_rise</obj_property>
+   </wvobject>
+   <wvobject fp_name="/afe_tb/seen_fall" type="logic">
+      <obj_property name="ElementShortName">seen_fall</obj_property>
+      <obj_property name="ObjectShortName">seen_fall</obj_property>
+   </wvobject>
+   <wvobject fp_name="/afe_tb/armed" type="logic">
+      <obj_property name="ElementShortName">armed</obj_property>
+      <obj_property name="ObjectShortName">armed</obj_property>
+   </wvobject>
+   <wvobject fp_name="/afe_tb/rise_v" type="other">
+      <obj_property name="ElementShortName">rise_v</obj_property>
+      <obj_property name="ObjectShortName">rise_v</obj_property>
+   </wvobject>
+   <wvobject fp_name="/afe_tb/fall_v" type="other">
+      <obj_property name="ElementShortName">fall_v</obj_property>
+      <obj_property name="ObjectShortName">fall_v</obj_property>
+   </wvobject>
+   <wvobject fp_name="/afe_tb/fd" type="array">
+      <obj_property name="ElementShortName">fd[31:0]</obj_property>
+      <obj_property name="ObjectShortName">fd[31:0]</obj_property>
+   </wvobject>
+</wave_config>

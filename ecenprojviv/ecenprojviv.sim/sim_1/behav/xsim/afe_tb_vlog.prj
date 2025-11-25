@@ -1,0 +1,13 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../ecenprojviv.srcs/sources_1/new/afe_top.v" \
+"../../../../ecenprojviv.srcs/sources_1/new/schmitt_comparator.v" \
+"../../../../ecenprojviv.srcs/sources_1/new/sr_latch.v" \
+"../../../../ecenprojviv.srcs/sources_1/new/uart_tx.v" \
+"../../../../ecenprojviv.srcs/sim_1/new/afe_tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
